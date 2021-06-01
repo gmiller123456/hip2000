@@ -7,15 +7,15 @@ will affect the actual limit.
 
 Size|Name|Stars
 ----|----|-----
-    41,829 | hipparcos_3.js    |173
-   125,178 | hipparcos_4.js    |516
-   390,291 | hipparcos_5.js    |1607
- 1,213,089 | hipparcos_6.js    |4993
- 2,134,788 | hipparcos_6.5.js  |8786
- 3,741,504 | hipparcos_7.js    |15398
- 9,976,885 | hipparcos_8.js    |41058
-20,165,146 | hipparcos_9.js    |82985
-26,184,014 | hipparcos_10.js   |107754
-28,003,112 | hipparcos_11.js   |115240
-28,541,114 | hipparcos_12.js   |117454
-28,663,100 | hipparcos_full.js |117957
+    41,829 |hipparcos_3.js    |173
+   125,178 |hipparcos_4.js    |516
+   390,291 |hipparcos_5.js    |1607
+ 1,213,089 |hipparcos_6.js    |4993
+ 2,134,788 |hipparcos_6.5.js  |8786
+ 3,741,504 |hipparcos_7.js    |15398
+ 9,976,885 |hipparcos_8.js    |41058
+20,165,146 |hipparcos_9.js    |82985
+26,184,014 |hipparcos_10.js   |107754
+28,003,112 |hipparcos_11.js   |115240
+28,541,114 |hipparcos_12.js   |117454
+28,663,100 |hipparcos_full.js |117957
