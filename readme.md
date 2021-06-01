@@ -5,7 +5,7 @@ stars down to different magnitude levels.  For example Hipparcos_6.js contains a
 6.5 gets special recognition since it is considered to be the limiting magnitude of human vision.  Though sky conditions
 will affect the actual limit.
 
-|Size|Name|Stars|
+|Size (bytes)|Name|Stars|
 |----|----|-----|
 |    41,829 |hipparcos_3.js    |173   |
 |   125,178 |hipparcos_4.js    |516   |
@@ -19,3 +19,6 @@ will affect the actual limit.
 |28,003,112 |hipparcos_11.js   |115240|
 |28,541,114 |hipparcos_12.js   |117454|
 |28,663,100 |hipparcos_full.js |117957|
+
+
+The hip2j2000.py script is what was used to do the conversion.  You must "pip install novas" before running it.
