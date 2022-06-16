@@ -1,0 +1,12 @@
+python hip2j2000_concise.py hipparcos_10.js > hipparcos_10_concise.js
+python hip2j2000_concise.py hipparcos_11.js > hipparcos_11_concise.js
+python hip2j2000_concise.py hipparcos_12.js > hipparcos_12_concise.js
+python hip2j2000_concise.py hipparcos_3.js > hipparcos_3_concise.js
+python hip2j2000_concise.py hipparcos_4.js > hipparcos_4_concise.js
+python hip2j2000_concise.py hipparcos_5.js > hipparcos_5_concise.js
+python hip2j2000_concise.py hipparcos_6.5.js > hipparcos_6.5_concise.js
+python hip2j2000_concise.py hipparcos_6.js > hipparcos_6_concise.js
+python hip2j2000_concise.py hipparcos_7.js > hipparcos_7_concise.js
+python hip2j2000_concise.py hipparcos_8.js > hipparcos_8_concise.js
+python hip2j2000_concise.py hipparcos_9.js > hipparcos_9_concise.js
+python hip2j2000_concise.py hipparcos_full.js > hipparcos_full_concise.js
